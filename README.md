@@ -1,4 +1,4 @@
-# Restaurant Orders Analysis using SQL
+# Restaurant Orders Analysis
 
 
 ## Overview
